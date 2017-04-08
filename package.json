@@ -2,7 +2,7 @@
   "name": "hot-website-boilerplate",
   "version": "0.1.0",
   "description": "Easy static website development boilerplate",
-  "repository": "https://bitbucket.org/machinode/youtubekit-web",
+  "repository": "https://github.com/sarneeh/hot-website-boilerplate",
   "author": "Jakub Sarnowski <sarneeh@gmail.com>",
   "license": "MIT",
   "scripts": {
